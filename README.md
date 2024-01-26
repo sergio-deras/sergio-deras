@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergio-deras
 - 👀 I’m interested in DevOps and Cloud Architectures
-- 🌱 I’m currently learning advanced AWS CDK
+- 🌱 I’m currently preparing to achieve an Ansible, K8s, and Terraform certifications
 - 💞️ I’m looking to collaborate on projects that make a difference (experimentation and sustainability)
 - 📫 Reach me at www.linkedin.com/in/sergioderas
 
